@@ -1,1 +1,2 @@
-;lasmda;lsda
+
+chcem toto pridat
